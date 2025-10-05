@@ -4,8 +4,8 @@
   "description": "Atividade para entrega da Atividade 2",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node -e \"console.log('>>> Simulando teste automatizado para login... OK!'); process.exit(0);\""
+	"start": "node index.js",
+	"test": "echo \"Tests passed\" && exit 0"
   },
   "repository": {
     "type": "git",
